@@ -28,4 +28,4 @@
    - Open your project folder and go to the terminal and activate your virtual environment. Then type ````streamlit run src\main.py```` and the app will open in your web 
    browser. Now you can interact with it or play with the code and add your own features. Also you can play around with jupyter notebook if you wish. 
 > **Note:** *The model files .pkl and .h5 were removed due to their large size. Hence, to save them again from the jupyter notebook, run the algorithms in the notebook and then 
-             save them in **models** folder*.
+             save them under **src//models***.
