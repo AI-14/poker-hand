@@ -17,6 +17,14 @@
 <br>
 <img src="res//Pic3.png" width="800" height="500"/>
 
+## Steps Taken In This Project
+- Data Collection
+- EDA & Visualization
+- Model selection & building it.
+- Evaluation of the models.
+- Saving the models.
+- Application program for real time usage.
+
 ## Installation And Usage
 1. Installation
    - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
