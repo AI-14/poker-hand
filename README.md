@@ -11,21 +11,35 @@
    with their description and accuracies.
 
 ## Screenshots Of The App
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+
 <img src="res//Pic1.png" width="800" height="500"/>
 <br>
 <img src="res//Pic2.png" width="800" height="500"/>
 <br>
 <img src="res//Pic3.png" width="800" height="500"/>
+</details>
 
 ## Steps Taken In This Project
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+
 - Data Collection
 - EDA & Visualization
 - Model selection & building it.
 - Evaluation of the models.
 - Saving the models.
 - Application program for real time usage.
+</details>
 
 ## Installation And Usage
+<details>
+  <summary>Click to expand!</summary>
+  <br/>
+
 1. Installation
    - Download/clone this repository. Then open terminal (make sure you are in the project's directory).
    - Create a virtual environment using the command ````py -m venv yourVenvName```` and activate it using ````yourVenvName\Scripts\activate.bat````.
@@ -37,3 +51,4 @@
    browser. Now you can interact with it or play with the code and add your own features. Also you can play around with jupyter notebook if you wish. 
 > **Note:** *The model files .pkl and .h5 were removed due to their large size. Hence, to save them again from the jupyter notebook, run the algorithms in the notebook and then 
              save them under **src//models***.
+</details>
