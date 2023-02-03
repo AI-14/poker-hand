@@ -33,8 +33,8 @@ Poker hand is a data web app designed for predicting what poker category a given
 ## Installation and Usage <a name="installation-usage"></a> 
 - Requirements:
    - `python >= 3.6`
-- `git clone https://github.com/AI-14/credit-card-fraud-detection.git` - clones the repository
-- `cd credit-card-fraud-detection`
+- `git clone https://github.com/AI-14/poker-hand.git` - clones the repository
+- `cd poker-hand`
 - `py -m venv yourVenvName` - creates a virtual environment
 - `yourVenvName\Scripts\activate.bat` - activates the virtual environment
 - `pip install -r requirements.txt` - installs all modules
