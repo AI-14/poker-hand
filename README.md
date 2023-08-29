@@ -3,7 +3,7 @@
 ## Table of contents
 1. [Description](#description)
 2. [Screenshots](#screenshots)
-3. [Steps taken in this project](#project-steps)
+3. [Steps taken in this Project](#project-steps)
 4. [Installation and Usage](#installation-usage)
 
 ## Description <a name="description"></a>
@@ -16,7 +16,7 @@ Poker hand is a data web app designed for predicting what poker category a given
 <br>
 <img src="res//Pic3.png" width="800" height="500"/>
 
-## Steps taken in this project <a name="project-steps"></a>
+## Steps taken in this Project <a name="project-steps"></a>
 - Data collection
 - EDA & visualization
 - Model selection & building it
